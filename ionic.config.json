@@ -1,0 +1,7 @@
+{
+  "name": "vue3template",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
